@@ -12,7 +12,7 @@ Stepper Motor Quickstart Guide - SparkFun Electronics
 [https://www.sparkfun.com/tutorials/400](https://www.sparkfun.com/tutorials/400)
 
 Easy Driver stepper motor driver
-[http://www.schmalzhaus.com/EasyDriver/index.html](http://www.schmalzhaus.com/EasyDriver/index.htm)
+[http://www.schmalzhaus.com/EasyDriver/index.html](http://www.schmalzhaus.com/EasyDriver/index.html)
 
 
 ##License
